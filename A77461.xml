@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the proceedings in the Kingdom of Scotland, as it is certified by letters from persons of quallity residing in Edinburgh. Dated June the 20. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77461</idno>
+            <idno type="STC">Wing B4632</idno>
+            <idno type="STC">Thomason E448_19</idno>
+            <idno type="EEBO-CITATION">99864431</idno>
+            <idno type="PROQUEST">99864431</idno>
+            <idno type="VID">161839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the proceedings in the Kingdom of Scotland, as it is certified by letters from persons of quallity residing in Edinburgh. Dated June the 20. 1648.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161839:1" rendition="simple:additions"/>
+            <p>A Brief RELATION OF THE PROCEEDINGS IN THE Kingdom of Scotland, As it is certified by LETTERS From Perſons of quallity reſiding in EDINBURGH. Dated <hi>June</hi> the 20. 1648.</p>
+            <p>LONDON, Printed for <hi>R. B.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161839:2"/>
+            <pb n="3" facs="tcp:161839:2"/>
+            <head>THE TRVE COPY OF A LETTER SENT Vnto a Member of the honorable Houſe of Commons from a Gen<g ref="char:EOLhyphen"/>tleman of quallity now in Edinburgh in Scotland bearing date the 20 of this inſtant <hi>June,</hi> 1648.</head>
+            <opener>
+               <salute>Honored Sir, and my moſt faithful Friend,</salute>
+            </opener>
+            <p>THis ſerves as to acknowledge your former favors, ſo to put you in mind that now things being come to the
+<pb n="4" facs="tcp:161839:3"/>height, its time with hart and hand to be ſeen valiant for God and his cauſe; And doubtleſs he himſelf will appear when the oppreſsion of his people, and the pride and cruelty of the enemy is at the height; for never the like pride and oppreſsion was ever ſeen here in Scotland, theſe pa<g ref="char:EOLhyphen"/>pers incloſed will ſhew the particulars: Preſent my ſervice to your brother my honored friend.</p>
+            <closer>
+               <salute>Sir </salute> 
+               <signed>I am Your real Friend and faithful Servant.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:161839:3"/>
+            <head>A Paper dated at Edinburgh the <hi>13</hi> June <hi>1648.</hi>
+            </head>
+            <p>THe Parliament at eleven of the clock at night on ſa<g ref="char:EOLhyphen"/>turday laſt adjourned for two years; they have left a Committee of States with the ſame power the Parlia<g ref="char:EOLhyphen"/>ment had: It is conceived by many of themſelves that they adjourned ſo haſtily in fear leaſt that the Parlia<g ref="char:EOLhyphen"/>ment of England ſhould have ſent them their reſoluti<g ref="char:EOLhyphen"/>ons and conſent to a Treaty with the King, which to a<g ref="char:EOLhyphen"/>voyd they brake up the Parliament.</p>
+            <p>This week all active inſtruments have been imployed to raiſe an Army, all oppoſers are impriſoned or plun<g ref="char:EOLhyphen"/>dred or both, and as faſt as a Troop is raiſed they are ſent to a Roundheads houſe there to quarter, and in a few days they devour him quite; this hope of free quar<g ref="char:EOLhyphen"/>ter and plunder raiſes Troops apace, eſpecially ſince they are aſſured of much better when they come into England.</p>
+            <p>An act paſſed in the Parliament that all men ſhall be impriſoned and their goods ſeized that ſhould not aſsiſt in the raiſing of this Army; whereupon thouſands run away, ſome to one place, ſome to another, and many are dayly impriſoned and plundred to nothing, and this happens only upon the godly and religious Party, who make conſcience of the cauſe of God, the Covenant, and will not go againſt it.</p>
+            <p>Another act was made that all men muſt ſwear to o<g ref="char:EOLhyphen"/>bey and execute all the acts made by this Parliament; whereupon divers Lords and others of quallity are gone, and at this inſtant ſeveral Troops are plundering their goods and ruinating their houſes.</p>
+            <p>The Malignant Party here hope in one moneth to make ready an army to march into England, which they will
+<pb n="6" facs="tcp:161839:4"/>do certainly if no force appear upon the borders to op<g ref="char:EOLhyphen"/>poſe them, but if any oppoſition be made them the Ma<g ref="char:EOLhyphen"/>lignants will find work enough on both ſides.</p>
+            <p>The Aſſembly of the Kirk made an act the ſame day that the Parliament made theirs for the raiſing of their Army, that whaſoever Mini<g ref="char:EOLhyphen"/>ſter in Scotland ſhould not warn their Congre<g ref="char:EOLhyphen"/>gation of the unlawfulneſſe of this War and En<g ref="char:EOLhyphen"/>gagement againſt England &amp; the Covenant, and do not let their people know that this War is a<g ref="char:EOLhyphen"/>gainſt the cauſ of God, in which both Kingdoms are engaged in one ſolemn Covenant, ſhould be ſuſpended and deprived from their Miniſtry; and in order thereunto never did any Miniſters ſhew ſuch valour and courage even to the faces of the greateſt in Scotland, and that upon the very laſt Lords day.</p>
+            <p>The Marqueſſe of Argile is ſafely armed in his own Country, there are two Regiments of Foot that have deſerted the Army, are gone unto him, they were firſt raiſed by him; and thou<g ref="char:EOLhyphen"/>ſands in Scotland expect that Lords ſtirring, but indeed ſhould any place or party riſe whilſt the whole Army is thus upon them, nothing can be done to their advantage, but if a conſi<g ref="char:EOLhyphen"/>derable Force come once upon the borders from
+<pb n="7" facs="tcp:161839:4"/>England, certainly there will be ſtrange turn<g ref="char:EOLhyphen"/>ings here.</p>
+            <p>To conclude, you never ſaw the Cavaleirs and deboiſt party in England, when they were at their higheſt, ſo ſcoff at and revile the religi<g ref="char:EOLhyphen"/>ous Miniſtry, the cauſe and Covenant of God, as theſe do here that are of <hi>Hamiltons</hi> party; and it is verily beleeved, that many godly Miniſters will be compelled to flee into England ſpeedily for ſafety and protection.</p>
+         </div>
+         <div type="part">
+            <head>A Paper of the 20th of June. 1648.</head>
+            <p>The incloſed was intended for you the laſt week, but was ſtayed with other Letters by or<g ref="char:EOLhyphen"/>der from the State, ſince which time here is very little alteration; the Force that is raiſed, and can be ſpared by this Kingdom, are now ſent to quarter at <hi>Dunfreeſe,</hi> 24. miles from <hi>Carlyle,</hi> and many ſuppoſe they intend to joyn ſpeedily with <hi>Langdale,</hi> they are in number thirteen hundred Horſe, and twenty five hundred Foot, and by this you may eaſily ſee who gave order to <hi>Langdale</hi> to take Barwick and Carlyle, and if <hi>Langdale</hi> be no ſpeedily relieved by them, he and his Fellow Cavaliers will blaze out all the truth, And declare upon whoſe order and Com<g ref="char:EOLhyphen"/>miſſion they were ſent thither, but a few days
+<pb n="8" facs="tcp:161839:5"/>will ſhew very much of their wicked deſign a<g ref="char:EOLhyphen"/>gainſt all that have taken the Covenant, and en<g ref="char:EOLhyphen"/>gaged in both Kingdoms in this cauſe of God and his truth againſt the Antichriſtian enemy, and a very ſmal body of ſouldiers upon the bor<g ref="char:EOLhyphen"/>ders wil deſtroy all their deſign, and make them not dare to leave their own Country, however the Miniſters deſerve high commendations, and do ſtrange things, they fear no Forces, but pro<g ref="char:EOLhyphen"/>teſt againſt the proceedings of the great Duke and his party, and no doubt but God in a very ſhort time will here their prayers, and be aven<g ref="char:EOLhyphen"/>ged of this ungodly party that are like thoſe of ours in England, profeſſed enemies to the Goſ<g ref="char:EOLhyphen"/>pel of Chriſt, and the ways of holineſſe and truth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
